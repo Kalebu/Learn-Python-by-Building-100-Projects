@@ -15,17 +15,22 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	4. Cracking hashes with Python 
 2. Web DevelopMent 
 3. Game Development 
+	1. Simple Drawing App with turtle
+	2. Guessing Ga 
+	3. A Snake Game with Pygame 
 4. Web Scraping 
 	1. Scraping 
 5. Desktop Applications 
-	1. Building A Music Player w 
+	1. Building A Music Player with Python  
 6. CLIs and Automation 
+	1. Build a tool to remove duplicates files  
 7. Data Science and Data Visualization 
+	1. 
 8. Embedded Applications 
 	1. Blinking Arduino LED with Python 
 	2. Reading intensity with Python 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMwMDQ5NDQsLTI3NDY5NDY2Nl19
+eyJoaXN0b3J5IjpbMjQ5MjAzODMwLC0yNzQ2OTQ2NjZdfQ==
 -->
