@@ -23,10 +23,10 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	2. Extracting all links from a given website
 	3. 
 5. Desktop Applications 
-	1. Building  A Simple Digital Clock 
-	1. Building A Music Player with Python  
-	2. Building a GUI Calculator with Tkinter
-	3. 
+	1. A Simple Digital Clock 
+	2. A Music Player   
+	3. A Calculator application  
+	4. 
 7. CLIs and Automation 
 	1. Build a tool to remove duplicates files  
 8. Data Science and Data Visualization 
@@ -37,5 +37,5 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1NzU2ODA4LC0yNzQ2OTQ2NjZdfQ==
+eyJoaXN0b3J5IjpbNTE0ODYwNDkxLC0yNzQ2OTQ2NjZdfQ==
 -->
