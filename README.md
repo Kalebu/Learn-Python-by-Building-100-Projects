@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Learn Python by building 100 Projects
+Are you bored or learning a programming language by memorizing the syntax and keywords so you wanna embrace it by building out real life projects that you can even put out there to your resume, then this book is for you it consists of 100 Python projects that you're going to build as you learn Python.
 
-You can use the [editor on GitHub](https://github.com/Kalebu/Learn-Python-by-Building-100-Projects/edit/ebook/README.md) to maintain and preview the content for your website in Markdown files.
+## Behind the scenes 
+What inspired me to writing this book was a post that I made into Dev.to titled "40 Python project ideas" where I mentioned a couple of projects that I did while learning and I received so lot of positive feedback plus the article made it to the top of Python Trends for that week. I then realized there is really a need for having good resources where people can learn Python by building projects and the same week I started writing the scratch of this book first pages including this one, I hope you will enjoy the Journey and Develop your Expertise with Python programmming 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This book is dedicated for those who are looking to learning python in project oriented way by building real life projects categorized into several aspects mentibUoned below;
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kalebu/Learn-Python-by-Building-100-Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Cybersecurity
+	1.  Python based key-loggger 
+	2. ASCII based encryptions 
+	3. Cracking hashes with Python 
+2. Web DevelopMent 
+3. Game Development 
+4. Web Scraping 
+	1. Scraping 
+5. Desktop Applications 
+6. CLIs and Automation 
+7. Data Science and Data Visualization 
+8. Embedded Applications 
+	1. Blinking Arduino LED with Python 
+	2. Reading intensity with Python 
+	3. Creating our own Mouse with MPU
+ 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI3NDY5NDY2Nl19
+-->
