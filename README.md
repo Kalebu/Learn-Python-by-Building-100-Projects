@@ -46,12 +46,14 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 		1. Human language translation
 		2.  Making your own plagiriasm detector 
 		3. Emotion detection from text (positive vs negative vs neutral)
-		4. Traing your own SMS Spam filter with Pyton 
+		4. Traing your own SMS Spam filter with Python
+	4. Visualizations 
+		1. Visualzing COVID-19 Spread with Folium  
 9. Embedded Applications 
 	1. Blinking Arduino LED with Python 
 	2. Reading intensity with Python 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxNzUxNTcxLC0yNzQ2OTQ2NjZdfQ==
+eyJoaXN0b3J5IjpbMTI4MzQwMzUyLC0yNzQ2OTQ2NjZdfQ==
 -->
