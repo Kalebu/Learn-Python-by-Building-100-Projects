@@ -26,7 +26,8 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	1. A Simple Digital Clock 
 	2. A Music Player   
 	3. A Calculator application  
-	4. 
+	4. A Phone number Location Decoder 
+	5. An App for messaging and sharing files over localhost 
 7. CLIs and Automation 
 	1. Build a tool to remove duplicates files  
 8. Data Science and Data Visualization 
@@ -37,5 +38,5 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0ODYwNDkxLC0yNzQ2OTQ2NjZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDI3NTUxMDksLTI3NDY5NDY2Nl19
 -->
