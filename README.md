@@ -31,16 +31,18 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	6. An App for messaging and sharing files over localhost 
 	7. An app to Simulate the Monty Hal Problem Probabilities 
 7. CLIs and Automation 
-	1.  A tool to remove duplicates files  
+	1.  A tool to remove duplicates files using hashing  
 	2. A Python based website Blocker 
-	3. A 
+	3. A CLI Chat Application using Sockets 
+	4. A Simple Python tool to automate computer shutdown
 8. Data Science and Data Visualization 
-	1. 
+	1. Computer vision
+		1. 
 9. Embedded Applications 
 	1. Blinking Arduino LED with Python 
 	2. Reading intensity with Python 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzM3NDU1ODIsLTI3NDY5NDY2Nl19
+eyJoaXN0b3J5IjpbNzgxOTQyODYxLC0yNzQ2OTQ2NjZdfQ==
 -->
