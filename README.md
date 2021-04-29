@@ -27,7 +27,9 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	2. A Music Player   
 	3. A Calculator application  
 	4. A Phone number Location Decoder 
-	5. An App for messaging and sharing files over localhost 
+	5. A simple Camera App for Taking Pictures 
+	6. An App for messaging and sharing files over localhost 
+	7. An app to Simulate the Monty Hal Problem Probabilities 
 7. CLIs and Automation 
 	1. Build a tool to remove duplicates files  
 8. Data Science and Data Visualization 
@@ -38,5 +40,5 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDI3NTUxMDksLTI3NDY5NDY2Nl19
+eyJoaXN0b3J5IjpbLTg2ODk3MzUwNywtMjc0Njk0NjY2XX0=
 -->
