@@ -23,16 +23,19 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	2. Extracting all links from a given website
 	3. 
 5. Desktop Applications 
+	1. Building  A Simple Digital Clock 
 	1. Building A Music Player with Python  
-6. CLIs and Automation 
+	2. Building a GUI Calculator with Tkinter
+	3. 
+7. CLIs and Automation 
 	1. Build a tool to remove duplicates files  
-7. Data Science and Data Visualization 
+8. Data Science and Data Visualization 
 	1. 
-8. Embedded Applications 
+9. Embedded Applications 
 	1. Blinking Arduino LED with Python 
 	2. Reading intensity with Python 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDM4MTI3NywtMjc0Njk0NjY2XX0=
+eyJoaXN0b3J5IjpbODI1NzU2ODA4LC0yNzQ2OTQ2NjZdfQ==
 -->
