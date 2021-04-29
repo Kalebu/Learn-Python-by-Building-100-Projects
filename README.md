@@ -37,12 +37,14 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	4. A Simple Python tool to automate computer shutdown
 8. Data Science and Data Visualization 
 	1. Computer vision
-		1. 
+		1. A Realtime Barcode reader 
+		2. A Python script for Realtime vehicle detection
+		3.  A Python script to transcribe a picture to sound  
 9. Embedded Applications 
 	1. Blinking Arduino LED with Python 
 	2. Reading intensity with Python 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxOTQyODYxLC0yNzQ2OTQ2NjZdfQ==
+eyJoaXN0b3J5IjpbLTE1NTg2NjA0OTMsLTI3NDY5NDY2Nl19
 -->
