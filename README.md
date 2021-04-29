@@ -11,12 +11,14 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 1. Cybersecurity
 	1.  Python based key-loggger 
 	2. ASCII based encryptions 
-	3. Cracking hashes with Python 
+	3. Image steganography with Python
+	4. Cracking hashes with Python 
 2. Web DevelopMent 
 3. Game Development 
 4. Web Scraping 
 	1. Scraping 
 5. Desktop Applications 
+	1. Building A Music Player w 
 6. CLIs and Automation 
 7. Data Science and Data Visualization 
 8. Embedded Applications 
@@ -25,5 +27,5 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Mjg2MTE1NiwtMjc0Njk0NjY2XX0=
+eyJoaXN0b3J5IjpbLTE3OTMwMDQ5NDQsLTI3NDY5NDY2Nl19
 -->
