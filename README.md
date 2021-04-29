@@ -9,7 +9,7 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 ## Table of Content 
 
 1. Cybersecurity
-	1.  Python based key-loggger 
+	1.  Python based key-logger 
 	2. ASCII based encryptions 
 	3. Image steganography with Python
 	4. Cracking hashes with Python 
@@ -20,6 +20,8 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	3. A Snake Game with Pygame 
 4. Web Scraping 
 	1. Building A Spider to scrap quotes from a website 
+	2. Extracting all links from a given website
+	3. 
 5. Desktop Applications 
 	1. Building A Music Player with Python  
 6. CLIs and Automation 
@@ -32,5 +34,5 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjI0OTQ3MSwtMjc0Njk0NjY2XX0=
+eyJoaXN0b3J5IjpbLTYzMDM4MTI3NywtMjc0Njk0NjY2XX0=
 -->
