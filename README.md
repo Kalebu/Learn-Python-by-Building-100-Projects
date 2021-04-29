@@ -16,10 +16,10 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 2. Web DevelopMent 
 3. Game Development 
 	1. Simple Drawing App with turtle
-	2. Guessing Ga 
+	2. Guessing Game with Tkinter 
 	3. A Snake Game with Pygame 
 4. Web Scraping 
-	1. Scraping 
+	1. Building A Spider to scrap quotes from a website 
 5. Desktop Applications 
 	1. Building A Music Player with Python  
 6. CLIs and Automation 
@@ -32,5 +32,5 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5MjAzODMwLC0yNzQ2OTQ2NjZdfQ==
+eyJoaXN0b3J5IjpbMTMyMjI0OTQ3MSwtMjc0Njk0NjY2XX0=
 -->
