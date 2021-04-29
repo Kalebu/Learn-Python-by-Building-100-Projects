@@ -31,7 +31,9 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	6. An App for messaging and sharing files over localhost 
 	7. An app to Simulate the Monty Hal Problem Probabilities 
 7. CLIs and Automation 
-	1. Build a tool to remove duplicates files  
+	1.  A tool to remove duplicates files  
+	2. A Python based website Blocker 
+	3. A 
 8. Data Science and Data Visualization 
 	1. 
 9. Embedded Applications 
@@ -40,5 +42,5 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODk3MzUwNywtMjc0Njk0NjY2XX0=
+eyJoaXN0b3J5IjpbLTE4MzM3NDU1ODIsLTI3NDY5NDY2Nl19
 -->
