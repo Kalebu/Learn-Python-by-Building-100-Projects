@@ -40,11 +40,15 @@ This book is dedicated for those who are eager to  learn python in handzone and 
 		1. A Realtime Barcode reader 
 		2. A Python script for Realtime vehicle detection
 		3.  A Python script to transcribe a picture to sound  
+	2. Machine Learning 
+		1. Loan Repayment Prediction using Machine Learning 
+	3. Natural language Processing 
+		4. 
 9. Embedded Applications 
 	1. Blinking Arduino LED with Python 
 	2. Reading intensity with Python 
 	3. Creating our own Mouse with MPU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg2NjA0OTMsLTI3NDY5NDY2Nl19
+eyJoaXN0b3J5IjpbLTE1NTYxMjUxMywtMjc0Njk0NjY2XX0=
 -->
